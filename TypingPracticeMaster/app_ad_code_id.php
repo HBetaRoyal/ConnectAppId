@@ -7,7 +7,7 @@
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_OPEN",
-			"adbanner_id":"ca-app-pub-2602596340797585/6322559099",
+			"adbanner_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_BANNER",
 			"adbanner_rect_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_BANNER_2",
 			"adinterstial_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_INTERSTITIAL",
 			"adnativebanner_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_NATIVE",
