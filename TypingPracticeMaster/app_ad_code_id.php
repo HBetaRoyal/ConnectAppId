@@ -2,8 +2,8 @@
 	"ad_id":
 		[
 			{
-			"g_ad":"1",
-			"fb_ad":"0",
+			"g_ad":"0",
+			"fb_ad":"1",
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_OPEN",
@@ -11,11 +11,11 @@
 			"adbanner_rect_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_BANNER_2",
 			"adinterstial_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_INTERSTITIAL",
 			"adnativebanner_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_NATIVE",
-			"adfbbanner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"adfbinterstial_id":"YOUR_PLACEMENT_ID",
-			"adfbnative_id":"YOUR_PLACEMENT_ID",
-			"adfbnative_banner_id":"YOUR_PLACEMENT_ID",		
-			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID"
+			"adfbbanner_id":"394946779346771_395115615996554",
+			"adfbinterstial_id":"394946779346771_395115785996537",
+			"adfbnative_id":"394946779346771_395116642663118",
+			"adfbnative_banner_id":"394946779346771_395116385996477",		
+			"adfbrectangle_banner_id":"394946779346771_395117425996373"
 			}
 		]
 }
