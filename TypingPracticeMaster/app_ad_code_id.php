@@ -2,14 +2,14 @@
 	"ad_id":
 		[
 			{
-			"g_ad":"1",
-			"fb_ad":"0",
+			"g_ad":"0",
+			"fb_ad":"1",
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"/21753324030,22764862903/com.hbeta.typing.test.speed.master_AppOpen",
 			"adbanner_id":"/21753324030,22764862903/com.hbeta.typing.test.speed.master_Banner",
 			"adbanner_rect_id":"/21753324030,22764862903/com.hbeta.typing.test.speed.master_Rectangle",
-			"adinterstial_id":"ca-app-pub-2602596340797585/8908624137",
+			"adinterstial_id":"/21753324030,22764862903/com.hbeta.typing.test.speed.master_Interstitial",
 			"adnativebanner_id":"/21753324030,22764862903/com.hbeta.typing.test.speed.master_Native",
 			"adfbbanner_id":"394946779346771_395115615996554",
 			"adfbinterstial_id":"394946779346771_395115785996537",
