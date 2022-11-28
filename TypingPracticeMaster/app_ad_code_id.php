@@ -6,7 +6,7 @@
 			"fb_ad":"1",
 			"adpub_id":"pub-2602596340797585",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
-			"adappopen_id":"ca-app-pub-2602596340797585/9912889436",
+			"adappopen_id":"/21952429235,22709505437/TTS_WOXXIN_2_TypingPracticeMaster_OPEN",
 			"adbanner_id":"ca-app-pub-2602596340797585/2792661900",
 			"adbanner_rect_id":"ca-app-pub-2602596340797585/7262675361",
 			"adinterstial_id":"ca-app-pub-2602596340797585/8767328726",
